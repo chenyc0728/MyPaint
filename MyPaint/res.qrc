@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resimage/brush.png</file>
+        <file>resimage/cancel.png</file>
+        <file>resimage/circle.png</file>
+        <file>resimage/copy.png</file>
+        <file>resimage/curve.png</file>
+        <file>resimage/eraser.png</file>
+        <file>resimage/fillcolor.png</file>
+        <file>resimage/fullscreen.png</file>
+        <file>resimage/horizontal_flip.png</file>
+        <file>resimage/line.png</file>
+        <file>resimage/new.png</file>
+        <file>resimage/open.png</file>
+        <file>resimage/pallet.png</file>
+        <file>resimage/paste.png</file>
+        <file>resimage/point.png</file>
+        <file>resimage/rectangle.png</file>
+        <file>resimage/rotate.png</file>
+        <file>resimage/save.png</file>
+        <file>resimage/select.png</file>
+        <file>resimage/shear.png</file>
+        <file>resimage/status.png</file>
+        <file>resimage/triangle.png</file>
+        <file>resimage/vertical_flip.png</file>
+        <file>resimage/text.png</file>
+        <file>resimage/icon.ico</file>
+        <file>resimage/lineedit.png</file>
+        <file>resimage/textedit.png</file>
+        <file>resimage/pic.png</file>
+        <file>resimage/saveas.png</file>
+        <file>resimage/delete.png</file>
+        <file>resimage/esc.png</file>
+    </qresource>
+</RCC>
